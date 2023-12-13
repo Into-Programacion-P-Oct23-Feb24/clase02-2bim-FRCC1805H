@@ -17,11 +17,11 @@ public class Ejemplo03 {
     public static void main(String[] args) {
         // Declarar y generar arreglos en Java
 
-        // arreglo de tipo entero
+        // arreglo de tipo entero // esta todo declaro en una sola line.
         int[] arreglo1 = new int[5];
         
-        // arreglo de tipo entero
-        int[] arreglo2;
+        // arreglo de tipo entero // esta linena declaro en una linena el arreglo
+        int[] arreglo2; // le doy su valor y el numero de elementos que va a tener este arreglo. 
         arreglo2 = new int[5];
         
         // arreglo de tipo entero
